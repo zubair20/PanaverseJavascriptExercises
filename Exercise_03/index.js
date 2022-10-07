@@ -1,3 +1,4 @@
+// Name : Zubair Akhtar; Date : 7 Oct, 2022
 //Exercise 3: Program to display the name in lowercase, uppercase, titlecase of the person stored in a variable
 function toTitleCase(name){
   let nameSplit = name.toLowerCase().split(" ");
